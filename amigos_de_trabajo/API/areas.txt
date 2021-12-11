@@ -1,0 +1,496 @@
+Birmingham, AL
+Mobile, AL
+Huntsville, AL
+Montgomery, AL
+Tuscaloosa, AL
+Anniston–Oxford, AL
+Florence, AL
+Auburn, AL
+Decatur, AL
+Dothan, AL
+Gadsden, AL
+Daphne–Fairhope, AL
+Anchorage, AK
+Fairbanks, AK
+Phoenix–Mesa, AZ
+Tucson, AZ
+Little Rock, AR
+Avondale–Goodyear, AZ
+Yuma, AZ–CA
+Prescott Valley–Prescott, AZ
+Flagstaff, AZ
+Lake Havasu City, AZ
+Sierra Vista, AZ
+Casa Grande, AZ
+Fayetteville–Springdale–Rogers, AR–MO
+Fort Smith, AR–OK
+Jonesboro, AR
+Conway, AR
+Hot Springs, AR
+Pine Bluff, AR
+Los Angeles–Long Beach–Anaheim, CA
+San Francisco–Oakland, CA
+San Diego, CA
+Riverside–San Bernardino, CA
+Sacramento, CA
+San Jose, CA
+Fresno, CA
+Concord, CA
+Mission Viejo–Lake Forest–San Clemente, CA
+Bakersfield, CA
+Murrieta–Temecula–Menifee, CA
+Reno, NV–CA
+Stockton, CA
+Oxnard, CA
+Modesto, CA
+Indio–Cathedral City, CA
+Lancaster–Palmdale, CA
+Victorville–Hesperia, CA
+Santa Rosa, CA
+Antioch, CA
+Santa Clarita, CA
+Visalia, CA
+Thousand Oaks, CA
+Santa Barbara, CA
+Salinas, CA
+Vallejo, CA
+Santa Cruz, CA
+Hemet, CA
+Merced, CA
+Fairfield, CA
+Santa Maria, CA
+Simi Valley, CA
+Redding, CA
+Yuba City, CA
+Seaside–Monterey, CA
+El Centro–Calexico, CA
+Turlock, CA
+Gilroy–Morgan Hill, CA
+Chico, CA
+Vacaville, CA
+Hanford, CA
+Tracy, CA
+Napa, CA
+Manteca, CA
+Livermore, CA
+Madera, CA
+Watsonville, CA
+Davis, CA
+Camarillo, CA
+Porterville, CA
+Lodi, CA
+Paso Robles–Atascadero, CA
+Petaluma, CA
+San Luis Obispo, CA
+Woodland, CA
+Delano, CA
+Arroyo Grande–Grover Beach, CA
+Lompoc, CA
+Denver–Aurora–Lakewood, CO
+Colorado Springs, CO
+Fort Collins, CO
+Pueblo, CO
+Grand Junction, CO
+Greeley, CO
+Boulder, CO
+Longmont, CO
+Lafayette–Louisville–Erie, CO
+Hartford, CT
+Bridgeport–Stamford, CT–NY
+New Haven, CT
+Waterbury, CT
+Norwich–New London, CT–RI
+Danbury, CT–NY
+Dover, DE
+Miami, FL
+Tampa–St. Petersburg, FL
+Orlando, FL
+Jacksonville, FL
+Sarasota–Bradenton, FL
+Cape Coral, FL
+Palm Bay–Melbourne, FL
+Port St. Lucie, FL
+Palm Coast–Daytona Beach–Port Orange, FL
+Pensacola, FL–AL
+Kissimmee, FL
+Bonita Springs, FL
+Lakeland, FL
+Tallahassee, FL
+Winter Haven, FL
+Fort Walton Beach–Navarre–Wright, FL
+Gainesville, FL
+Deltona, FL
+North Port–Port Charlotte, FL
+Ocala, FL
+Sebastian–Vero Beach South–Florida Ridge, FL
+Spring Hill, FL
+Panama City, FL
+Leesburg–Eustis–Tavares, FL
+Lady Lake–The Villages, FL
+Homosassa Springs–Beverly Hills–Citrus Springs, FL
+St. Augustine, FL
+Zephyrhills, FL
+Sebring–Avon Park, FL
+Titusville, FL
+Atlanta, GA
+Augusta-Richmond County, GA–SC
+Savannah, GA
+Columbus, GA–AL
+Macon, GA
+Warner Robins, GA
+Gainesville, GA
+Athens-Clarke County, GA
+Albany, GA
+Dalton, GA
+Valdosta, GA
+Rome, GA
+Cartersville, GA
+Hinesville, GA
+Brunswick, GA
+Urban Honolulu, HI
+Kailua (Honolulu County)–Kaneohe, HI
+Kahului, HI
+Boise, ID
+Nampa, ID
+Idaho Falls, ID
+Pocatello, ID
+Lewiston, ID–WA
+Chicago, IL–IN–WI
+St. Louis, MO–IL
+Rockford, IL
+Round Lake Beach–McHenry–Grayslake, IL–WI
+Peoria, IL
+Springfield, IL
+Champaign, IL
+Bloomington–Normal, IL
+Kenosha, WI–IL
+Decatur, IL
+Alton, IL–MO
+Kankakee, IL
+DeKalb, IL
+Elmira, NY
+Carbondale, IL
+Cape Girardeau, MO–IL
+Danville, IL
+Indianapolis, IN
+Fort Wayne, IN
+South Bend, IN–MI
+Evansville, IN–KY
+Lafayette, IN
+Elkhart, IN–MI
+Bloomington, IN
+Terre Haute, IN
+Muncie, IN
+Anderson, IN
+Michigan City–La Porte, IN–MI
+Kokomo, IN
+Columbus, IN
+Des Moines, IA
+Davenport, IA–IL
+Cedar Rapids, IA
+Waterloo, IA
+Iowa City, IA
+Sioux City, IA–NE–SD
+Dubuque, IA–IL
+Ames, IA
+Wichita, KS
+Topeka, KS
+Lawrence, KS
+Manhattan, KS
+Louisville/Jefferson County, KY–IN
+Lexington-Fayette, KY
+Bowling Green, KY
+Elizabethtown–Radcliff, KY
+Owensboro, KY
+New Orleans, LA
+Baton Rouge, LA
+Shreveport–Bossier City, LA
+Lafayette, LA
+Houma, LA
+Lake Charles, LA
+Monroe, LA
+Slidell, LA
+Mandeville–Covington, LA
+Alexandria, LA
+Hammond, LA
+Portland, ME
+Bangor, ME
+Lewiston, ME
+Baltimore, MD
+Aberdeen–Bel Air South–Bel Air North, MD
+Hagerstown, MD–WV–PA
+Frederick, MD
+Waldorf, MD
+Salisbury, MD–DE
+Westminster–Eldersburg, MD
+Lexington Park–California–Chesapeake Ranch Estates, MD
+Cumberland, MD–WV–PA
+Boston, MA–NH–RI–CT
+Springfield, MA–CT
+Worcester, MA–CT
+Barnstable Town, MA
+New Bedford, MA
+Leominster–Fitchburg, MA
+Pittsfield, MA
+Detroit, MI
+Grand Rapids, MI
+Flint, MI
+Lansing, MI
+Ann Arbor, MI
+Kalamazoo, MI
+Muskegon, MI
+Saginaw, MI
+South Lyon–Howell, MI
+Holland, MI
+Jackson, MI
+Port Huron, MI
+Battle Creek, MI
+Bay City, MI
+Benton Harbor–St. Joseph–Fair Plain, MI
+Midland, MI
+Monroe, MI
+Minneapolis–St. Paul, MN
+Duluth, MN–WI
+St. Cloud, MN
+Rochester, MN
+Mankato, MN
+Jackson, MS
+Gulfport, MS
+Hattiesburg, MS
+Pascagoula, MS
+Kansas City, MO–KS
+Springfield, MO
+Columbia, MO
+Lee's Summit, MO
+Joplin, MO
+St. Joseph, MO–KS
+Jefferson City, MO
+Billings, MT
+Missoula, MT
+Great Falls, MT
+Omaha, NE–IA
+Lincoln, NE
+Grand Island, NE
+Las Vegas–Henderson, NV
+Carson City, NV
+Nashua, NH–MA
+Manchester, NH
+Portsmouth, NH–ME
+Dover–Rochester, NH–ME
+Trenton, NJ
+Atlantic City, NJ
+Vineland, NJ
+Twin Rivers–Hightstown, NJ
+Villas, NJ
+Albuquerque, NM
+Las Cruces, NM
+Santa Fe, NM
+Los Lunas, NM
+Farmington, NM
+New York–Newark, NY–NJ–CT–PA
+Buffalo, NY
+Rochester, NY
+Albany–Schenectady, NY
+Poughkeepsie–Newburgh, NY–NJ
+Syracuse, NY
+Binghamton, NY–PA
+Utica, NY
+Glens Falls, NY
+Saratoga Springs, NY
+Middletown, NY
+Watertown, NY
+Kingston, NY
+Ithaca, NY
+Charlotte, NC–SC
+Raleigh, NC
+Winston-Salem, NC
+Durham, NC
+Greensboro, NC
+Fayetteville, NC
+Asheville, NC
+Wilmington, NC
+Concord, NC
+Hickory, NC
+Gastonia, NC–SC
+High Point, NC
+Burlington, NC
+Greenville, NC
+Jacksonville, NC
+Rocky Mount, NC
+Goldsboro, NC
+New Bern, NC
+Fargo, ND–MN
+Bismarck, ND
+Grand Forks, ND–MN
+Cleveland, OH
+Cincinnati, OH–KY–IN
+Columbus, OH
+Dayton, OH
+Akron, OH
+Toledo, OH–MI
+Youngstown, OH–PA
+Canton, OH
+Lorain–Elyria, OH
+Middletown, OH
+Springfield, OH
+Newark, OH
+Mansfield, OH
+Lima, OH
+Weirton–Steubenville, WV–OH–PA
+Oklahoma City, OK
+Tulsa, OK
+Norman, OK
+Lawton, OK
+Portland, OR–WA
+Eugene, OR
+Salem, OR
+Medford, OR
+Bend, OR
+Corvallis, OR
+Albany, OR
+Grants Pass, OR
+Philadelphia, PA–NJ–DE–MD
+Pittsburgh, PA
+Allentown, PA–NJ
+Harrisburg, PA
+Lancaster, PA
+Scranton-Wilkes-Barre, Pennsylvania
+Reading, PA
+York, PA
+Erie, PA
+Pottstown, PA
+State College, PA
+Altoona, PA
+Lebanon, PA
+Johnstown, PA
+Hanover, PA
+Monessen–California, PA
+Hazleton, PA
+Williamsport, PA
+East Stroudsburg, PA–NJ
+Bloomsburg–Berwick, PA
+Uniontown–Connellsville, PA
+Chambersburg, PA
+San Juan, PR
+Aguadilla–Isabela–San Sebastián, PR
+Ponce, PR
+Arecibo, PR
+San Germán–Cabo Rojo–Sabana Grande, PR
+Mayagüez, PR
+Yauco, PR
+Fajardo, PR
+Juana Díaz, PR
+Guayama, PR
+Florida–Imbery–Barceloneta, PR
+Providence, RI–MA
+Columbia, SC
+Charleston–North Charleston, SC
+Greenville, SC
+Myrtle Beach–Socastee, SC–NC
+Spartanburg, SC
+Mauldin–Simpsonville, SC
+Rock Hill, SC
+Florence, SC
+Anderson, SC
+Sumter, SC
+Hilton Head Island, SC
+Sioux Falls, SD
+Rapid City, SD
+Memphis, TN–MS–AR
+Nashville-Davidson, TN
+Knoxville, TN
+Chattanooga, TN–GA
+Clarksville, TN–KY
+Murfreesboro, TN
+Johnson City, TN
+Jackson, TN
+Cleveland, TN
+Morristown, TN
+Dallas–Fort Worth–Arlington, TX
+Houston, TX
+San Antonio, TX
+Austin, TX
+El Paso, TX–NM
+McAllen, TX
+Denton–Lewisville, TX
+Corpus Christi, TX
+Conroe–The Woodlands, TX
+Lubbock, TX
+Laredo, TX
+Killeen, TX
+Brownsville, TX
+Amarillo, TX
+Waco, TX
+College Station–Bryan, TX
+McKinney, TX
+Port Arthur, TX
+Beaumont, TX
+Harlingen, TX
+Tyler, TX
+Odessa, TX
+Midland, TX
+Abilene, TX
+Texas City, TX
+Wichita Falls, TX
+Longview, TX
+San Angelo, TX
+Temple, TX
+Texarkana–Texarkana, TX–AR
+Lake Jackson–Angleton, TX
+Victoria, TX
+Sherman–Denison, TX
+San Marcos, TX
+Salt Lake City–West Valley City, UT
+Ogden–Layton, UT
+Provo–Orem, UT
+St. George, UT
+Logan, UT
+Burlington, VT
+Washington, DC–VA–MD
+Virginia Beach, VA
+Richmond, VA
+Roanoke, VA
+Fredericksburg, VA
+Lynchburg, VA
+Kingsport, TN–VA
+Charlottesville, VA
+Blacksburg, VA
+Williamsburg, VA
+Bristol–Bristol, TN–VA
+Winchester, VA
+Harrisonburg, VA
+Staunton–Waynesboro, VA
+Seattle, WA
+Spokane, WA–ID
+Tri-Cities, WA
+Bremerton, WA
+Olympia–Lacey, WA
+Marysville, WA
+Yakima, WA
+Bellingham, WA
+Wenatchee, WA
+Longview, WA–OR
+Mount Vernon, WA
+Walla Walla, WA–OR
+Huntington, WV–Ashland, KY–Ironton, OH
+Charleston, WV
+Wheeling, WV–OH
+Morgantown, WV
+Parkersburg, WV–OH
+Beckley, WV
+Milwaukee, WI
+Madison, WI
+Appleton, WI
+Green Bay, WI
+Racine, WI
+Eau Claire, WI
+La Crosse, WI–MN
+Wausau, WI
+Oshkosh, WI
+Sheboygan, WI
+Janesville, WI
+West Bend, WI
+Beloit, WI–IL
+Fond du Lac, WI
+Cheyenne, WY
+Casper, WY
